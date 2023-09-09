@@ -7,7 +7,7 @@ const addNote = function (title, body) {
     notes.push({
       title: title,
       body: body,
-    });
+    }); 
     savenotes(notes);
 
   };

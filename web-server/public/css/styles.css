@@ -1,0 +1,23 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+form{
+   display: flex;
+   justify-content: center;
+height: 10vh;
+width: 70%;
+margin:100px
+}
+input{
+    padding:1rem;
+    border-radius: 10px;
+}
+button{
+    margin-left: 15px;
+
+    padding: 7.5px;
+    align-self: center;
+    border-radius: 5px;
+}

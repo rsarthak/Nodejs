@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+   color:dark;
+}
+img{
+    width: 100%;
+    height: 80vh;
+    border-radius: 10px;
+}
